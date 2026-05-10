@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "droxdata"
-database_id = "YOUR_D1_DATABASE_ID"
+database_id = "b6b96370-a158-48b3-9d51-adf047759d68"
